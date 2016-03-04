@@ -5,7 +5,7 @@
 	<body>
 
 		<!-- /////// ModelAndView return 하는 Controller 사용연습 /////// -->
-		<!-- <form  method="post" action="logon01.do">  -->
+		<form  method="post" action="logon01.do"> 
 		<!-- <form  method="post" action="logon02.do">  -->  
 		<!-- <form  method="post" action="logon03.do">  -->
 		<!-- <form  method="post" action="logon04.do">  -->
@@ -13,9 +13,9 @@
 		
 		<!-- /////// String return 하는 Controller 사용연습 /////// -->
 		<!-- <form  method="post" action="logon06.do"> -->
-		<form  method="post" action="logon07.do">
+<!-- 		<form  method="post" action="logon07.do"> -->
 
-			아  이  디 : <input type="text" name="userId" value=""><br/><br/>
+			아  이  디 : <input type="text" na me="userId" value=""><br/><br/>
 			패스워드 : <input type="text" name="password" value=""><br/><br/>
 			<input type="submit" name="submit" value="Enter"/>
 
